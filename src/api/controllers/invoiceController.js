@@ -1,7 +1,7 @@
 // controllers/invoiceController.js
 
 import mongoose from "mongoose";
-import InvoiceModel  from "../models/invoiceModel.js";
+import InvoiceModel  from "../models/InvoiceModel.js";
 import CustomerModel from "../models/customer_model.js";
 import OrderModel    from "../models/order_model.js";
 import ShopModel     from "../models/shop_model.js";
