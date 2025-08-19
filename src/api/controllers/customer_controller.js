@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import CustomerModel from "../models/customer_model.js";
-import ShopkeeperModel from "../models/shopkeeper_model.js";
+
 import ShopModel from "../models/shop_model.js";
 
 // Create a new customer (only by shopkeeper)
